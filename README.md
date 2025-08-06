@@ -2,6 +2,9 @@
 
 A simple and responsive Todo App. It allows users to:
 
+live web site link- https://taskapp6.netlify.app/
+
+
 - Add new tasks
 - Mark tasks as completed
 - Delete individual or completed tasks
